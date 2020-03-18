@@ -7,7 +7,7 @@ By [Jianzhu Guo](https://me.guojianzhu.com), [Xiangyu Zhu](http://www.cbsr.ia.ac
 
 ## Introduction
 
-This repo will release the two proposed benchmarks GFR-R and GFR-V in our paper. I hope the proposed benchmarks will attract researchers on _Generalized Face Recognition_ problem. More details can be referred to our paper [Learning Meta Face Recognition in Unseen Domains](https://me.guojianzhu.com/assets/pdfs/05997.pdf), accepted to CVPR2020.
+This repo will release the two proposed benchmarks GFR-R and GFR-V in our paper. I hope the proposed benchmarks will attract researchers on _Generalized Face Recognition_ problem. More details can be referred to our paper [Learning Meta Face Recognition in Unseen Domains](https://arxiv.org/pdf/2003.07733.pdf), accepted to CVPR2020.
 
 
 **This repo will keep updating.**
