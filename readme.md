@@ -28,11 +28,11 @@ In real-world applications of face recognition, the model trained on source doma
 GFR-R is for crossing race evaluation and GFR-V is crossing facial variety, which means a large gap between source domains and target unseen domains. The involved datasets and protocols are shown in two tables below.
 
 <p align="center">
-  <img src="imgs/GFR-datasets.png" alt="bounding box" width="900px">
+  <img src="imgs/GFR-datasets.png" alt="bounding box" width="800px">
 </p>
 
 <p align="center">
-  <img src="imgs/GFR-protocols.png" alt="bounding box" height="320px">
+  <img src="imgs/GFR-protocols.png" alt="bounding box" height="300px">
 </p>
 
 ### Our Method
