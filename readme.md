@@ -1,7 +1,6 @@
 # Learning Meta Face Recognition in Unseen Domains
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![HitCount](http://hits.dwyl.io/cleardusk/MFR.svg)](http://hits.dwyl.io/cleardusk/MFR)
 
 By [Jianzhu Guo](https://me.guojianzhu.com), [Xiangyu Zhu](http://www.cbsr.ia.ac.cn/users/xiangyuzhu/), [Chenxu Zhao](https://www.linkedin.com/in/chenxu-zhao-b66844107/), Dong Cao, [Zhen Lei](http://www.cbsr.ia.ac.cn/users/zlei/) and [Stan Z. Li](http://www.cbsr.ia.ac.cn/users/szli/).
 
